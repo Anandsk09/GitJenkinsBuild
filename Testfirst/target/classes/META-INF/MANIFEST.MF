@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DELL
+Implementation-Vendor-Id: org.anand.test.bootSpring
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/Testfirst/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
